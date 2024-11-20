@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    <router-view />
+    日常事务
   </div>
 </template>
 

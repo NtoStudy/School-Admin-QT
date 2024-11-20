@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    <router-view />
+    勤工助学
   </div>
 </template>
 

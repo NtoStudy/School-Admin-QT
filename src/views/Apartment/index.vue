@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    <router-view />
+    公寓管理
   </div>
 </template>
 

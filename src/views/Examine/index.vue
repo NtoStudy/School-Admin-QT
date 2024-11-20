@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    <router-view />
+    考核管理
   </div>
 </template>
 

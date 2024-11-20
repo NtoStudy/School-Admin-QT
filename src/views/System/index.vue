@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    <router-view />
+    系统管理
   </div>
 </template>
 

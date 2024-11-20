@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    <router-view />
+    个人信息
   </div>
 </template>
 

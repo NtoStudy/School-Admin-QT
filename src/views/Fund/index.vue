@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    <router-view />
+    学生资助
   </div>
 </template>
 

@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    <router-view />
+    评奖评优
   </div>
 </template>
 

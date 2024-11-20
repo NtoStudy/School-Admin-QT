@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    <router-view />
+    违纪处分
   </div>
 </template>
 

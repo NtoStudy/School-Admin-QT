@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    <router-view />
+    思政队伍
   </div>
 </template>
 
