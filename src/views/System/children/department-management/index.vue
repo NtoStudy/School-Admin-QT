@@ -1,8 +1,11 @@
 <script setup lang="ts">
+
 </script>
 
 <template>
-  <router-view />
+Deoaartment Management
 </template>
 
-<style scoped></style>
+<style scoped>
+
+</style>
