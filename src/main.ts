@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import './router/index.ts'
+import './router/intercept.ts'
 import App from './App.vue'
 
 createApp(App).mount('#app')
