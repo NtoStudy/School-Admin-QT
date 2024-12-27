@@ -1,0 +1,3 @@
+packages:
+  - docs # 项目文档
+  - "packages/**" # 所有项目的源码存放目录
