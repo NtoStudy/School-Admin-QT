@@ -1,5 +1,8 @@
 <script setup lang="ts">
 import cacheRouter from '@/router/catche.ts'
+import { useRouteTitle } from "@/hooks"
+
+useRouteTitle()
 </script>
 
 <template>

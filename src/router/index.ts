@@ -25,15 +25,16 @@ Object.keys(metaRouters).forEach((item) => {
 const routes: RouteRecordRaw[] = [
     {
         path: '/',
-        redirect: { name: 'login' },
+        redirect: '/login',
     },
     {
         path: '/login',
         name: 'login',
         component: () => import('@/views/login/index.vue'),
         meta: {
+            keepAlive: false,
             requiresAuth: false,
-            title: '登录页',
+            title: '登录',
             key: 'login',
         },
     },
