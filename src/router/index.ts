@@ -16,7 +16,6 @@ Object.keys(metaRouters).forEach((item) => {
     const module = metaRouters[item]
     if (module && Array.isArray(module.default)) {
         routerArray.push(...module.default)
-        console.log(module.default)
     } else {
         console.warn(`Module at ${item} does not have a default export that is an array of RouteRecordRaw`)
     }
